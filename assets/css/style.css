@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* FONT */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+/* $ FONT */
+
+  
+  
+.container-centro a.button {
+	align-self: center;
+	background: #ffd105;
+	color: #006ba1;
+	border-radius: 5px;
+	font-weight: 700;
+	font-size: 18px;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+.container-centro a.button:hover {
+	text-decoration: none;
+} 
